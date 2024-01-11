@@ -5,9 +5,11 @@
 
 Graduate of the Faculty of Computers and Information, Department of Medical Informatics, Zagazig University, 2023, with a general grade of distinction, with a GPA of 3.58 out of 4.
 
-Skills: Programming & Concepts (C++,Dart,OOP, Data Structure and Algorithms,Design Pattern with MVVM,Solid Principles,Clean Code). State Management (Bloc). Restful APIS(HTTP,DIO, Postman). Data Persistence (SQLite,Firebase)
-
-- 🔭 I’m currently working on this page. 
+Skills: 
+* Programming & Concepts (C++ , Dart , OOP, Data Structure and Algorithms, Design Pattern with MVVM , Solid Principles,Clean Code).
+* State Management (Bloc).
+*  Restful APIS(HTTP,DIO, Postman).
+*  Data Persistence (SQLite,Firebase)
 
 
 
