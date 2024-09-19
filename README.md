@@ -2,7 +2,7 @@
 ### My Name is Mohamed Attiya Mohamed .
 #### I am a Junior Flutter Developer & AI Engineer .
 
-Graduate fropm the Faculty of Computers and Information , Department of Medical Informatics , Zagazig University, 2023 , with an overall grade of Excellent (GPA: 3.58) .
+Graduate from the Faculty of Computers and Information , Department of Medical Informatics , Zagazig University, 2023 , with an overall grade of Excellent (GPA: 3.58) .
 
 Skills as Flutter Developer : 
 * Programming & Concepts (Dart , OOP, Data Structure and Algorithms, Design Pattern with MVVM , Solid Principles,Clean Code).
